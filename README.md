@@ -8,9 +8,11 @@ The code used to create these scripts has come from example scripts included wit
 The required libraries can be found at:
 
 16-Channel 12-bit PWM/Servo Shield: http://www.adafruit.com/product/1411
+
 Servo Shield Library: https://learn.adafruit.com/adafruit-16-channel-pwm-slash-servo-shield/using-the-adafruit-library
 
 1.8" Color TFT Shield w/microSD and Joystick: http://www.adafruit.com/product/802
+
 TFT Shield Library: https://learn.adafruit.com/1-8-tft-display/downloads
 
 Arduino Uno R3: https://www.adafruit.com/products/50
